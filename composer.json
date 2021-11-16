@@ -1,0 +1,41 @@
+{
+  "name": "acpl/flarum-lscache",
+  "description": "Speed up your forum on LiteSpeed Web server.",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "GPL-3.0-or-later",
+  "support": {
+    "issues": "https://github.com/android-com-pl/flarum-lscache/issues",
+    "source": "https://github.com/android-com-pl/flarum-lscache"
+  },
+  "require": {
+    "flarum/core": "^1.0.0",
+    "php": "^7.4||^8.0",
+    "guzzlehttp/guzzle": "^7.4"
+  },
+  "authors": [
+    {
+      "name": "Rafał Całka",
+      "email": "rafal.calka@android.com.pl",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ACPL\\FlarumCache\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "LiteSpeed Cache",
+      "category": "feature",
+      "icon": {
+        "name": "fas fa-bolt",
+        "backgroundColor": "#2b82d9",
+        "color": "#fff"
+      }
+    }
+  }
+}
