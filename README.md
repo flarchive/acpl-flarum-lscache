@@ -1,23 +1,23 @@
 # acpl/flarum-lscache (Archive)
 
-> **Read-only Archive:** This repository is an archive and is not intended for installation. Do not install extensions from this repository; install releases directly from [Packagist](https://packagist.org/packages/acpl/flarum-lscache) or the [upstream repository](https://github.com/android-com-pl/flarum-lscache).
+> **Read-only archive of released versions of acpl/flarum-lscache.** Not for installation: use [Packagist](https://packagist.org/packages/acpl/flarum-lscache) or the [upstream repository](https://github.com/android-com-pl/flarum-lscache).
 
-**44** versions archived · Latest: [`v4.0.0-beta.4`](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.4) · License: `GPL-3.0-or-later` · Flarum: `^2.0`
+**44** versions archived · Latest: [`v4.0.0-beta.4`](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.4) (stable: [`v3.3.9`](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.9)) · License: `GPL-3.0-or-later` · Flarum: `^2.0`
 
 ## Archived Versions
 
-| Version | Archived Date | Flarum | |
+| Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v4.0.0-beta.4` | 2026-10-02 | `^2.0` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.4) |
-| `v4.0.0-beta.3` | 2026-10-02 | `^2.0` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.3) |
-| `v4.0.0-beta.2` | 2026-10-02 | `^v2.0.0-beta.7` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.2) |
-| `v4.0.0-beta.1` | 2026-10-02 | `^v2.0.0-beta.7` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.1) |
-| `v3.3.9` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.9) |
-| `v3.3.8` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.8) |
-| `v3.3.7` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.7) |
-| `v3.3.6` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.6) |
-| `v3.3.5` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.5) |
-| `v3.3.4` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.4) |
+| `v4.0.0-beta.4` | 2026-06-22 | `^2.0` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.4) |
+| `v4.0.0-beta.3` | 2026-06-22 | `^2.0` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.3) |
+| `v4.0.0-beta.2` | 2026-03-21 | `^v2.0.0-beta.7` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.2) |
+| `v4.0.0-beta.1` | 2026-02-23 | `^v2.0.0-beta.7` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.1) |
+| `v3.3.9` | 2026-06-22 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.9) |
+| `v3.3.8` | 2026-06-21 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.8) |
+| `v3.3.7` | 2026-06-16 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.7) |
+| `v3.3.6` | 2026-03-21 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.6) |
+| `v3.3.5` | 2026-02-22 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.5) |
+| `v3.3.4` | 2026-02-22 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.4) |
 
 [View all 44 versions](https://github.com/flarchive/acpl-flarum-lscache/tags)
 
