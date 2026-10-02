@@ -1,15 +1,20 @@
 # acpl/flarum-lscache (Archive)
 
-This repository is a permanent, read-only archive of released versions of `acpl/flarum-lscache`, preserved by the [Extension Archive for Flarum](https://github.com/flarchive/archive-index).
+This repository is a permanent, read-only archive of released versions of `acpl/flarum-lscache`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+
+> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-## Quick Download
+## Archive Status
 
-- **Latest Archived Version:** `0.4.1`
-- **Flarum Compatibility:** `^1.2`
-- **Direct Download (.zip):** [Download 0.4.1 (.zip)](https://github.com/flarchive/acpl-flarum-lscache/archive/refs/tags/archive/v0.4.1.zip)
-- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/acpl-flarum-lscache/tags)
+- **Latest Archived Release:** `v4.0.0-beta.4`
+- **Target Flarum Compatibility:** `^2.0`
+- **Declared License:** `GPL-3.0-or-later`
+- **Upstream Repository:** https://github.com/android-com-pl/flarum-lscache.git
+- **All Archived Tags:** [View Tags](https://github.com/flarchive/acpl-flarum-lscache/tags)
+
+*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
 
 ## Archive Catalog
 
