@@ -1,27 +1,33 @@
 # acpl/flarum-lscache (Archive)
 
-This repository is a permanent, read-only archive of released versions of `acpl/flarum-lscache`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+> **Read-only Archive:** This repository is an archive and is not intended for installation. Do not install extensions from this repository; install releases directly from [Packagist](https://packagist.org/packages/acpl/flarum-lscache) or the [upstream repository](https://github.com/android-com-pl/flarum-lscache).
 
-> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
+**44** versions archived · Latest: [`v4.0.0-beta.4`](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.4) · License: `GPL-3.0-or-later` · Flarum: `^2.0`
 
-> **Not affiliated with the Flarum Foundation or the Flarum project.**
+## Archived Versions
 
-## Archive Status
+| Version | Archived Date | Flarum | |
+|---|---|---|---|
+| `v4.0.0-beta.4` | 2026-10-02 | `^2.0` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.4) |
+| `v4.0.0-beta.3` | 2026-10-02 | `^2.0` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.3) |
+| `v4.0.0-beta.2` | 2026-10-02 | `^v2.0.0-beta.7` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.2) |
+| `v4.0.0-beta.1` | 2026-10-02 | `^v2.0.0-beta.7` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v4.0.0-beta.1) |
+| `v3.3.9` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.9) |
+| `v3.3.8` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.8) |
+| `v3.3.7` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.7) |
+| `v3.3.6` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.6) |
+| `v3.3.5` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.5) |
+| `v3.3.4` | 2026-10-02 | `^1.8` | [Browse](https://github.com/flarchive/acpl-flarum-lscache/tree/archive/v3.3.4) |
 
-- **Latest Archived Release:** `v4.0.0-beta.4`
-- **Target Flarum Compatibility:** `^2.0`
-- **Declared License:** `GPL-3.0-or-later`
-- **Upstream Repository:** https://github.com/android-com-pl/flarum-lscache.git
-- **All Archived Tags:** [View Tags](https://github.com/flarchive/acpl-flarum-lscache/tags)
+[View all 44 versions](https://github.com/flarchive/acpl-flarum-lscache/tags)
 
-*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
+Catalog entry: [packages/acpl-flarum-lscache.json](https://github.com/flarchive/archive-index/blob/main/packages/acpl-flarum-lscache.json)
 
-## Archive Catalog
+## About this archive
 
-- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/acpl-flarum-lscache.json)
-- Upstream repository: https://github.com/android-com-pl/flarum-lscache.git
-- Issues, pull requests, discussions, and wiki are disabled on this repository.
-
-See the Archive Index for policy, disclaimer, and takedown procedures:
-- [POLICY.md](https://github.com/flarchive/archive-index/blob/main/POLICY.md)
-- [DISCLAIMER.md](https://github.com/flarchive/archive-index/blob/main/DISCLAIMER.md)
+- **Immutability:** Archive versions are stored as protected tags and cannot be modified or overwritten.
+- **Main branch:** The `main` branch contains only this archive notice; source code is stored within each respective version tag.
+- **License:** The original license and copyright notices are preserved inside each archived version.
+- **As-is:** Archived code is provided as-is, without warranty of any kind. The archive does not maintain, test, or verify the safety of archived extensions, and is not responsible for broken, unmaintained, or insecure code.
+- **Independence:** This archive is an independent project and is not affiliated with, endorsed by, or sponsored by the Flarum Foundation or the Flarum project.
+- **Policies:** See [POLICY.md](https://github.com/flarchive/archive-index/blob/main/POLICY.md) and [DISCLAIMER.md](https://github.com/flarchive/archive-index/blob/main/DISCLAIMER.md) for takedown and exclusion procedures.
